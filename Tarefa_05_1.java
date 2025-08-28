@@ -19,7 +19,7 @@ public class Tarefa_05 {
 	System.out.println("O menor número é: " + menor);
 		
 		
-		
 	}
 
 }
+
